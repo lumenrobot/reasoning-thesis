@@ -9,5 +9,29 @@ output:
 
 ## Abstract
 
+Keywords: [robot](https://en.wikipedia.org/wiki/Robot), [social](https://en.wikipedia.org/wiki/Social), [interaction](https://en.wikipedia.org/wiki/Interaction), [knowledge base](https://en.wikipedia.org/wiki/Knowledge_base), [semantic reasoning](https://en.wikipedia.org/wiki/Semantic_reasoner), [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing), [understanding](https://en.wikipedia.org/wiki/Understanding), [Linked Data](http://linkeddata.org/)
+
 ## Abstrak
 
+[Robot Sosial Lumen](http://lumen.lskk.ee.itb.ac.id) adalah robot dengan antarmuka [interaksi multimodal](https://en.wikipedia.org/wiki/Multimodal_interaction) sebagai teman sosial dan untuk membantu kegiatan manusia. Secara garis besar, Lumen dibagi menjadi dua komponen besar yaitu:
+
+1. _avatar_ fisik beserta sensor-sensornya seperti [robot NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot), dan
+2. modul-modul pengolahan informasi yang berjalan di server.
+
+Semua komponen tersebut saling berkomunikasi secara _real-time_ melalui jaringan komputer kabel maupun nirkabel.
+
+Manusia dapat berkomunikasi dengan Lumen melalui bahasa alami seperti bahasa Inggris dengan sarana pesan instan, layanan media sosial, maupun suara (dengan bantuan modul pengenalan suara). Untuk itu dibutuhkan modul untuk memahami bahasa alami manusia dan menerjemahkannya menjadi basis pengetahuan semantik dalam struktur graph dengan _ontology_ [YAGO](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/). 
+
+Modul penalaran semantik akan mengolah basis pengetahuan ini secara kontinu dan otomatis untuk mengendalikan Lumen, antara lain:
+
+* mengatur penerimaan stimulus/input/sensor,
+* mengatur proses pengolahan data,
+* menyebarkan informasi ke modul-modul lain yang relevan,
+* melakukan aksi terhadap manusia dan lingkungan sekitar seperti bergerak atau mengeluarkan suara, dan
+* memperbarui basis pengetahuan sesuai dengan informasi yang diterima.
+
+Modul penalaran semantik terintegrasi dan bekerja sama dengan modul-modul server Lumen lainnya agar Lumen dapat berperilaku seperti yang diharapkan manusia.
+
+Kata kunci: [robot](https://en.wikipedia.org/wiki/Robot), [sosial](https://en.wikipedia.org/wiki/Social), [interaksi](https://en.wikipedia.org/wiki/Interaction), [basis pengetahuan](https://en.wikipedia.org/wiki/Knowledge_base), [penalaran semantik](https://en.wikipedia.org/wiki/Semantic_reasoner), [pengolahan bahasa alami](https://en.wikipedia.org/wiki/Natural_language_processing), [pemahaman](https://en.wikipedia.org/wiki/Understanding), [Linked Data](http://linkeddata.org/)
+
+## Batasan Masalah
