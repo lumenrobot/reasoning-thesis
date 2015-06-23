@@ -1,0 +1,13 @@
+---
+title: "Bab I: Pendahuluan"
+author: "Hendy Irawan"
+date: "Tuesday, June 23, 2015"
+output:
+  html_document:
+    self_contained: no
+---
+
+## Abstract
+
+## Abstrak
+

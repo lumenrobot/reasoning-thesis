@@ -1,0 +1,26 @@
+---
+title: "Semantic Reasoning with Natural Language Understanding-based Interaction for Controlling Lumen Social Robot"
+author: "Hendy Irawan"
+date: "Tuesday, June 23, 2015"
+output:
+  html_document:
+    self_contained: no
+---
+
+**Penalaran Semantik dengan Interaksi Berbasis Pemahaman Bahasa Alami untuk Mengendalikan Robot Sosial Lumen**
+
+1. [Preface](chapter1.html)
+
+Hendy's internal notes:
+
+1. Robot need behavior
+2. need to reason with goals
+3. understand semantic of actions
+4. play with children
+5. natural language understanding in English
+6. networked/distributed processing
+7. connection with other modules like speech recognition, speech synthesis, database, face recognition, human recognition, object recognition, scene perception
+8. goals:
+1. can play tic tac toe, using natural language
+2. can tell story, using natural language
+9. interact in social media with Twitter
