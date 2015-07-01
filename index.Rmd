@@ -24,3 +24,4 @@ Hendy's internal notes:
 1. can play tic tac toe, using natural language
 2. can tell story, using natural language
 9. interact in social media with Twitter
+10. Use [http://gist.neo4j.org/?github-kbastani%2Fgists%2F%2Fmeta%2FTimeScaleEventMetaModel.adoc](Kenny Bastani's Time scale event meta model)
