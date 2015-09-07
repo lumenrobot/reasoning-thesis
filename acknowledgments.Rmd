@@ -28,4 +28,4 @@ Dalam penyusunan thesis ini saya ucapkan terima kasih sebesar-besarnya kepada:
 15. [David Hart](http://hk.linkedin.com/in/davidhart) atas dedikasi dan bimbingannya dalam OpenCog.
 16. Semua mentor dan peneliti [OpenCog Foundation](http://www.opencog.org/) atas kerja kerasnya.
 17. [Tom Van Buskirk](http://mindmap.iwarp.com/) untuk penelitian peta konsep penalaran manusia.
-18. [Fathia Mohamad Fadilah Azhar](http://www.fathia.net/) untuk kolaborasi Bandung Smart Transportation System (BSTS) dengan Lumen.
+18. [Fathia Mohamad Fadilah Azhar](http://www.fathia.net/) untuk kolaborasi [Bandung Smart Transportation System (BSTS)](http://bsts.lskk.ee.itb.ac.id/) dengan Lumen.
