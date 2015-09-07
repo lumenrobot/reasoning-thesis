@@ -1,0 +1,31 @@
+---
+title: "Acknowledgments (Ucapan Terima Kasih)"
+author: "Hendy Irawan"
+date: "Monday, September 7, 2015"
+output:
+  html_document:
+    self_contained: no
+---
+
+## Acknowledgments (Ucapan Terima Kasih)
+
+Dalam penyusunan thesis ini saya ucapkan terima kasih sebesar-besarnya kepada:
+
+1. [Ary Setijadi Prihatmanto](mailto:asetijadi@lskk.ee.itb.ac.id) atas seluruh bimbingan, bantuan, dukungan, dan ilmunya selama saya menempuh Pendidikan Magister Teknik Elektro opsi Teknologi Media Digital dan Game, Institut Teknologi Bandung.
+2. [Marzuki Syahfirin](https://onemarzuki.wordpress.com/) sebagai koordinator Lumen Robot Friend.
+3. [Maria Shusanti](https://www.facebook.com/maria.shusanti) untuk penelitian pengenalan gestur Lumen Robot Friend.
+4. [Budhi Yulianto](https://www.linkedin.com/pub/budhi-yulianto/26/885/256) atas penelitian Graph Database untuk Lumen Robot Friend.
+5. [Wahyudi](https://www.facebook.com/wahyudi.si) untuk penelitian pemahaman bahasa alami.
+6. [Sigit Ari Wijanarko](https://www.facebook.com/sigit.ariw) untuk penelitian visualisasi _Augmented Reality_ Lumen Robot Friend.
+7. [Taufiq Nuzwir Nizar](https://independent.academia.edu/TaufiqNizar) untuk algoritma pengolahan citra.
+8. [Ahmad Syarif](https://itb.academia.edu/AhmadSyarif) untuk integrasi avatar [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot).
+9. [Putri Nhirun](https://www.researchgate.net/profile/Putri_Nhirun) untuk kemampuan pengenalan bicara Lumen.
+10. [Setyaki Sholata Sya](https://itb.academia.edu/SetyakiSholataSya) untuk pengenalan visual Lumen.
+11. Semua tim [Lumen Robot Friend](http://lumen.lskk.ee.itb.ac.id/) atas kerja sama baiknya.
+12. [Linas Vepstas](http://linas.org/) sebagai mentor dan implementor AtomSpace.
+13. [Amen Belayneh](https://www.linkedin.com/in/amenbelayneh) atas mentoringnya dalam implementasi Neo4j Graph Backing Store.
+14. [Ben Goertzel](http://goertzel.org/) atas bimbingan dan kerja kerasnya dalam OpenCog.
+15. [David Hart](http://hk.linkedin.com/in/davidhart) atas dedikasi dan bimbingannya dalam OpenCog.
+16. Semua mentor dan peneliti [OpenCog Foundation](http://www.opencog.org/) atas kerja kerasnya.
+17. [Tom Van Buskirk](http://mindmap.iwarp.com/) untuk penelitian peta konsep penalaran manusia.
+18. [Fathia Mohamad Fadilah Azhar](http://www.fathia.net/) untuk kolaborasi Bandung Smart Transportation System (BSTS) dengan Lumen.

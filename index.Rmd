@@ -9,7 +9,8 @@ output:
 
 **Penalaran Semantik dengan Interaksi Berbasis Pemahaman Bahasa Alami untuk Mengendalikan Robot Sosial Lumen**
 
-1. [Preface](chapter1.html)
+1. [Preface (Kata Pengantar)](chapter1.html)
+2. [Acknowledgments (Ucapan Terima Kasih)](acknowledgments.html)
 
 Hendy's internal notes:
 
