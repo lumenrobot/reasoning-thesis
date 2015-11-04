@@ -32,11 +32,12 @@ Bayesian Network library/framework:
 1. [**H2O**](http://h2o.ai/). Two best techs with regard to Spark/Spark Streaming is H2O and Spark MLlib. Now H2O is more of a competitor to Spark than to Mahout. In a way, Spark+MLlib competes with H2O. So you can use just H2O without Spark, but if your data is already in Spark (RDD/HDFS) then you can use [Sparkling Water](https://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html).
 2. [Weka](http://www.cs.waikato.ac.nz/ml/index.html). Most mature, but does it work well with Spark/Spark Streaming?
 3. [Spark MLlib](https://spark.apache.org/mllib/). With MLlib, you can't use H2O, since it only runs on Spark. So maybe this will be out soon. "Mahout focusses on algorithms for which there is a wide-spread need for scalable algorithms.  MLlib is considerably more liberal with what is brought in." See [Mahout's take on comparison with MLlib](http://www.weatheringthroughtechdays.com/2015/04/mahout-010x-first-mahout-release-as.html).
-4. [-Mahout-](http://mahout.apache.org) (out for the moment, [H2O can be used without Mahout, but Mahout can be an environment that executes on top of both H2O and Spark](https://www.quora.com/How-is-0xdatas-H2O-different-from-Apache-Mahout/answer/Cliff-Click-1)). superior](https://www.quora.com/How-is-0xdatas-H2O-different-from-Apache-Mahout/answer/Cliff-Click-1))
+4. [-Mahout-](http://mahout.apache.org) (out for the moment, [H2O can be used without Mahout, but Mahout can be an environment that executes on top of both H2O and Spark](https://www.quora.com/How-is-0xdatas-H2O-different-from-Apache-Mahout/answer/Cliff-Click-1).
 5. [-Jayes / Eclipse Code Recommenders-](https://www.eclipse.org/recommenders/jayes/) (out: I prefer a general purpose AI library).
 6. [Deeplearning4j.org is an open-source, distributed deep learning framework for the JVM.](http://deeplearning4j.org/)
 7. unbbayes
 8. javabayes
+9. [Bayesian network tools for Java](http://bnj.sourceforge.net/)
 
 Using H2O, you can use any of R, REST/JSON (e.g. curl/bash), GUI (browser), Java or Scala.  H2O algo's are typically 100x to 1000x faster than current Map/Reduce-based Mahout (but Mahout is working hard to port itself to both Spark and H2O).  As Hrvoje mentioned, H2O has fewer algos implemented:
 
