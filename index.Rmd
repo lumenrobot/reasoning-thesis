@@ -35,6 +35,8 @@ Bayesian Network library/framework:
 4. [-Mahout-](http://mahout.apache.org) (out for the moment, [H2O can be used without Mahout, but Mahout can be an environment that executes on top of both H2O and Spark](https://www.quora.com/How-is-0xdatas-H2O-different-from-Apache-Mahout/answer/Cliff-Click-1)). superior](https://www.quora.com/How-is-0xdatas-H2O-different-from-Apache-Mahout/answer/Cliff-Click-1))
 5. [-Jayes / Eclipse Code Recommenders-](https://www.eclipse.org/recommenders/jayes/) (out: I prefer a general purpose AI library).
 6. [Deeplearning4j.org is an open-source, distributed deep learning framework for the JVM.](http://deeplearning4j.org/)
+7. unbbayes
+8. javabayes
 
 Using H2O, you can use any of R, REST/JSON (e.g. curl/bash), GUI (browser), Java or Scala.  H2O algo's are typically 100x to 1000x faster than current Map/Reduce-based Mahout (but Mahout is working hard to port itself to both Spark and H2O).  As Hrvoje mentioned, H2O has fewer algos implemented:
 
